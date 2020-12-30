@@ -37,16 +37,62 @@
   }
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Tinos&display=swap');
 
 /* --------------------------------------- */
 /* --------------------------------------- */
+
+
+header {
+  display: flex;
+  flex-direction: row;
+  background-color: #e5e28c;
+}
+
+body{
+  background-color: white;
+}
+
+ul{
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
+  font-size: 12px;
+}
+
+button{
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+  color: blue;
+  margin: 5px;
+  border-radius: 3px;
+}
+
+a:link{
+  text-decoration: none;
+  
+}
+
+
+.div-three{
+  height: 450px;
+  /* background-color: red; */
+}
+
+
+
 /* --------------------------------------- */
 
 .top-div{
   background-image: url("https://scontent-bos3-1.cdninstagram.com/v/t51.2885-15/e35/18949629_253084625173410_7012011328831225856_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=106&_nc_ohc=rn1gg0CzM2EAX9e3IbY&tp=1&oh=311d8eb341d755d59c0931ad4b893754&oe=60141774");
   background-repeat: no-repeat;
   /* background-size: cover; */
-  height: 850px;
+  height: 1150px;
   width: 500px;
   /* object-fit: cover; */
   margin: 20px;
@@ -55,21 +101,17 @@
   /* overflow: hidden; */
   scale: 3px;
 }
+
 .bottom-div{
- 
-  /* height: 500px;  */
+ display: flex;
+ flex-direction: column;
+  height: 500px; 
   width: 100%; 
   background-color: rgb(233, 241, 241);
 }
-
-/* .top-div img{
-  height: auto;
-  max-height: 320px;
-  overflow: hidden;
-  width: 300px;
-  object-fit: cover;
-} */
-
+hr{
+  color: black;
+}
 .App{
   background-color: #e5e28c;
   display:flex;
@@ -89,4 +131,85 @@
 .top-div-border{
   margin: 20px;
   background-color: white;
+}
+
+
+/* --------------------------------------- */
+.introduction{
+  display: flex;
+  flex-direction: column;
+}
+
+.introduction h1{
+  text-align: left;
+  padding-left: 40px;
+  font-family: 'Tinos', serif;
+  font-size: 70px;
+}
+
+.introduction p{
+  text-align: left;
+  padding-left: 30px;
+  font-family: 'Tinos', serif;
+  font-size: 25px;
+  padding-right: 100px;
+}
+
+.he{
+  font-family: 'Tinos', serif;
+  font-size: 50px;
+}
+
+.getintouch{
+  display: flex;
+  height: 80px;
+  width: 150px;
+}
+
+.getintouch ul{
+  display: flex;
+  flex-direction: row;
+  padding-left: 25px;
+}
+
+.projects{
+  display: flex;
+  flex-direction: column;
+  background-color:whitesmoke;
+  height: 500px;
+  overflow: scroll;
+}
+
+.projects button{
+  width: 250px;
+  height: 35px;
+
+}
+/* .he{
+  background-color: thistle;
+} */
+
+.project-items{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 150px;
+  padding: 40px;
+}
+
+.projects-items h1{
+  display: flex;
+  text-align: left;
+  font-family: 'Tinos', serif;
+}
+
+
+.project-items img{
+  padding-left: 35px;
+  width: 90%px;
+}
+
+.footer{
+  font-family: 'Tinos', serif;
+  
 }
