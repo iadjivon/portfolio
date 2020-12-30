@@ -33,7 +33,7 @@ function App() {
           </p>
           {/* <hr/> */}
 
-           <p> JavaScript(ES6) | HTML5 | CSS3 | Node.js | Bootstrap | Git | JQuery | D3.js | GitHub | Express | Node.js | MongoDB | VS-Code
+           <p> JavaScript(ES6) | HTML5 | CSS3 | Node.js | Bootstrap | Git | JQuery | D3.js | GitHub | Express | Node.js | MongoDB | Ruby on Rails | VS-Code
           </p>
             </div>
 
@@ -62,28 +62,28 @@ function App() {
 
               <div className="project-items"> 
                 <div>
-                  <h1> Project 1</h1>
+                  <h1> Umbono </h1>
                   <img src="https://files.constantcontact.com/f2c04391601/33f56ebc-eccd-4013-862e-951e36c5da09.png" /> 
                   <button> Github </button>
                   <button> Live App </button>
                 </div>
 
                 <div>
-                  <h1> Project 2</h1>
+                  <h1> L'afrique en Luxe </h1>
                   <img src="https://files.constantcontact.com/f2c04391601/f36c9ca0-e626-46b1-bb61-04c5fe411246.png" /> 
                   <button> Github </button>
                   <button> Live App </button>
                 </div>
 
                 <div>
-                  <h1> Project 4</h1>
+                  <h1> Zen Movie Review </h1>
                   <img src="https://files.constantcontact.com/f2c04391601/cad6b475-6dc5-477b-80bf-57d7d91fedbb.png" /> 
                   <button> Github </button>
                   <button> Live App </button>
                 </div>
 
                 <div>
-                  <h1> Project 5</h1>
+                  <h1> Fufu </h1>
                   <img src="https://files.constantcontact.com/f2c04391601/9a2e5937-4f00-4661-8b11-f4a26e0e4530.png" /> 
                   <button> Github </button>
                   <button> Live App </button>
