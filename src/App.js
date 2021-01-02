@@ -17,13 +17,7 @@ function App() {
         <div >
           <header>
             <ul>
-              {/* <li>
-             <button>  <a href="#"> Home</a> </button>
-             </li>
             
-              <li>
-              <button> <a href="#"> Contact</a> </button>
-              </li> */}
             </ul>
           </header>
           <body>
@@ -41,11 +35,11 @@ function App() {
 
               <ul>
               <li>
-              <button> <a href="#"> LinkedIn</a> </button>
+              <button> <a href="https://www.linkedin.com/in/ida-adjivon/"> LinkedIn</a> </button>
               </li>
               
               <li>
-              <button> <a href="#"> Github</a> </button>
+              <button> <a href="https://github.com/iadjivon/portfolio"> Github</a> </button>
               </li>
               </ul>
              
@@ -71,8 +65,8 @@ function App() {
                 <div>
                   <h1> L'afrique en Luxe </h1>
                   <img src="https://files.constantcontact.com/f2c04391601/f36c9ca0-e626-46b1-bb61-04c5fe411246.png" /> 
-                  <button> Github </button>
-                  <button> Live App </button>
+                  <button>  <a href="https://github.com/iadjivon/project2"> Github </a></button>
+                  <button> <a href="https://idaproject2.herokuapp.com"> </a>Live App </button>
                 </div>
 
                 <div>
