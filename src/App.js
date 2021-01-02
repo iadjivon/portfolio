@@ -1,13 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
 
 
-
  <div className="App">
-
 
       <div className="top-div-border">
         <div className="top-div"></div>
@@ -17,7 +14,9 @@ function App() {
         <div >
           <header>
             <ul>
-            
+            <button> this is a button </button>
+            <button> this is another button </button>
+
             </ul>
           </header>
           <body>
@@ -25,7 +24,7 @@ function App() {
               <h1> Hi, I'm Ida.</h1>
             <p> I am a software engineer with a background in Public Health and program management. I have experience working in non-profit operations, managing projects, and supporting individuals and teams pursue and reach their goals. I am most excited about problem solving and creating applications and software that are well designed and built, user friendly, interactive and fun to use.  
           </p>
-          {/* <hr/> */}
+        \
 
            <p> JavaScript(ES6) | HTML5 | CSS3 | Node.js | Bootstrap | Git | JQuery | D3.js | GitHub | Express | Node.js | MongoDB | Ruby on Rails | VS-Code
           </p>
