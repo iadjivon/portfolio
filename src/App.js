@@ -1,13 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
 
 
-
  <div className="App">
-
 
       <div className="top-div-border">
         <div className="top-div"></div>
@@ -17,13 +14,9 @@ function App() {
         <div >
           <header>
             <ul>
-              {/* <li>
-             <button>  <a href="#"> Home</a> </button>
-             </li>
-            
-              <li>
-              <button> <a href="#"> Contact</a> </button>
-              </li> */}
+            <button> this is a button </button>
+            <button> this is another button </button>
+
             </ul>
           </header>
           <body>
@@ -31,7 +24,7 @@ function App() {
               <h1> Hi, I'm Ida.</h1>
             <p> I am a software engineer with a background in Public Health and program management. I have experience working in non-profit operations, managing projects, and supporting individuals and teams pursue and reach their goals. I am most excited about problem solving and creating applications and software that are well designed and built, user friendly, interactive and fun to use.  
           </p>
-          {/* <hr/> */}
+        \
 
            <p> JavaScript(ES6) | HTML5 | CSS3 | Node.js | Bootstrap | Git | JQuery | D3.js | GitHub | Express | Node.js | MongoDB | Ruby on Rails | VS-Code
           </p>
@@ -41,11 +34,11 @@ function App() {
 
               <ul>
               <li>
-              <button> <a href="#"> LinkedIn</a> </button>
+              <button> <a href="https://www.linkedin.com/in/ida-adjivon/"> LinkedIn</a> </button>
               </li>
               
               <li>
-              <button> <a href="#"> Github</a> </button>
+              <button> <a href="https://github.com/iadjivon/portfolio"> Github</a> </button>
               </li>
               </ul>
              
@@ -71,8 +64,8 @@ function App() {
                 <div>
                   <h1> L'afrique en Luxe </h1>
                   <img src="https://files.constantcontact.com/f2c04391601/f36c9ca0-e626-46b1-bb61-04c5fe411246.png" /> 
-                  <button> Github </button>
-                  <button> Live App </button>
+                  <button>  <a href="https://github.com/iadjivon/project2"> Github </a></button>
+                  <button> <a href="https://idaproject2.herokuapp.com"> </a>Live App </button>
                 </div>
 
                 <div>
