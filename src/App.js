@@ -72,7 +72,7 @@ function App() {
                 <div>
                   <h1> Zen Movie Review </h1>
                   <img src="https://files.constantcontact.com/f2c04391601/cad6b475-6dc5-477b-80bf-57d7d91fedbb.png" /> 
-                  <button> Github </button>
+                  <button>  <a href="https://github.com/iadjivon/project2">Github </a>  </button>
                   <button> Live App </button>
                 </div>
 
